@@ -37,6 +37,7 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
+🚨 M3U Is Tested In VLC (Windows)
 🚨 Browse Category Wise For Better Experience <br>
 🚨 Toffee Links Only Works In Match-Time <br>
 🚨 Consider Giving Credit Before Sharing <br>
