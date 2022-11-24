@@ -23,7 +23,7 @@ http://cdn01.palki.tv/live/TSports-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="REDZONE {GLOBAL}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",REDZONE (720p)
 https://griomreavigremant654.s3.amazonaws.com/redzone_720p30.m3u8
-#EXTINF:-1 group-title="REDZONE {GLOBAL}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",REDZONE (720p)
+#EXTINF:-1 group-title="REDZONE {GLOBAL}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",REDZONE (480p)
 https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="Xtream {GLOBAL}",Xtream {SERVER-1}
