@@ -1,15 +1,15 @@
 #EXTM3U
 # Collected And Uploaded By (https://github.com/sabbiriptv)
 
-#EXTINF:-1 tvg-id="430" group-title="Toffee {PAID}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (Auto)
+#EXTINF:-1 group-title="Toffee {FREE}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (Auto)
 https://sabbirhasan.pythonanywhere.com/worldcup/auto
-#EXTINF:-1 tvg-id="430" group-title="Toffee {PAID}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (720p)
+#EXTINF:-1 group-title="Toffee {FREE}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (720p)
 https://sabbirhasan.pythonanywhere.com/worldcup/720p
-#EXTINF:-1 tvg-id="430" group-title="Toffee {PAID}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (480p)
+#EXTINF:-1 group-title="Toffee {FREE}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (480p)
 https://sabbirhasan.pythonanywhere.com/worldcup/480p
-#EXTINF:-1 tvg-id="430" group-title="Toffee {PAID}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (360p)
+#EXTINF:-1 group-title="Toffee {FREE}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (360p)
 https://sabbirhasan.pythonanywhere.com/worldcup/360p
-#EXTINF:-1 tvg-id="430" group-title="Toffee {PAID}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (240p)
+#EXTINF:-1 group-title="Toffee {FREE}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (240p)
 https://sabbirhasan.pythonanywhere.com/worldcup/240p
-#EXTINF:-1 tvg-id="430" group-title="Toffee {PAID}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (144p)
+#EXTINF:-1 group-title="Toffee {FREE}" tvg-language="English" tvg-logo="http://nontonwith.me/wp-content/uploads/2022/11/banner-wc1.png",Toffee FREE (144p)
 https://sabbirhasan.pythonanywhere.com/worldcup/144p
