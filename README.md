@@ -37,7 +37,9 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 Toffee Links Only Works In Match-Time
+🚨 Browse Category Wise For Better Experience <br>
+🚨 Toffee Links Only Works In Match-Time <br>
+🚨 Consider Giving Credit Before Sharing <br>
 🚨 My Exam Is Very Near So Please Pray For Me 💕
 
 # 💛 Contact Me:
