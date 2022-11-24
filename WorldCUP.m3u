@@ -22,9 +22,9 @@ https://sabbirhasan.pythonanywhere.com/worldcup/efiber-tsports
 #EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",E-Fiber (480p-GaziTV)
 https://sabbirhasan.pythonanywhere.com/worldcup/efiber-gazitv
 
-#EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",SN-Digital (360p-SERVER1)
+#EXTINF:-1 group-title="SN-Digital {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",SN-Digital (360p-SERVER1)
 http://103.78.255.178:8080/gtv/index.m3u8
-#EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",SN-Digital (360p-SERVER2)
+#EXTINF:-1 group-title="SN-Digital {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",SN-Digital (360p-SERVER2)
 http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PalkiTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",PalkiTV (Auto)
