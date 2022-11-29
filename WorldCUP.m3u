@@ -86,7 +86,9 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/117176.ts
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TyC Sports (720p)
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p)
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER1)
+http://194.143.148.28/MatchHD/mono.m3u8
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER2)
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 3 (720p)
 http://175.107.244.52:4457/play/a06z
