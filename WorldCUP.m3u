@@ -35,17 +35,10 @@ https://sabbirhasan.pythonanywhere.com/worldcup/efiber-tsports
 #EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",E-Fiber (480p-GaziTV)
 https://sabbirhasan.pythonanywhere.com/worldcup/efiber-gazitv
 
-#EXTINF:-1 group-title="SN-Digital {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",SN-Digital (360p-SERVER1)
-http://103.78.255.178:8080/gtv/index.m3u8
-#EXTINF:-1 group-title="SN-Digital {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",SN-Digital (360p-SERVER2)
-http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="PalkiTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",PalkiTV (Auto)
-http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
-#EXTINF:-1 group-title="PalkiTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",PalkiTV (360p)
-http://cdn01.palki.tv/live/TSports-M/tracks-v2/index.fmp4.m3u8
-#EXTINF:-1 group-title="PalkiTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",PalkiTV (240p)
-http://cdn01.palki.tv/live/TSports-M/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (720p)
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (720p)
+http://103.102.27.173/live/tvfeed1002/index.m3u8
 
 #EXTINF:-1 group-title="REDZONE {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",REDZONE (720p)
 https://griomreavigremant654.s3.amazonaws.com/redzone_720p30.m3u8
@@ -92,8 +85,8 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/117176.ts
 #EXTINF:-1 group-title="Random {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Gazi TV (1080p)
 http://103.127.93.82:8234/GaziTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Fox Sports 1 (720p-60FPS)
-https://sabbirhasan.pythonanywhere.com/worldcup/premium-fs1
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TyC Sports (720p)
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p)
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 3 (720p)
