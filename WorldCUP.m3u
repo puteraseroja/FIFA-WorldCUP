@@ -40,6 +40,19 @@ http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (720p)
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 
+#EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Fox Sports 1 (720p-60fps)
+#EXTVLCOPT:http-referrer=https://eplayer.click/premiumtv/poscitech.php?id=123
+https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TRT1 (720p-60fps)
+#EXTVLCOPT:http-referrer=https://eplayer.click/premiumtv/poscitech.php?id=123
+https://webudi.openhd.lol/primamax/prima900/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TVR1 (720p-60fps)
+#EXTVLCOPT:http-referrer=https://eplayer.click/premiumtv/poscitech.php?id=123
+https://webudi.openhd.lol/cdn/8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TS1 (720p)
+#EXTVLCOPT:http-referrer=https://eplayer.click/premiumtv/poscitech.php?id=123
+https://ad2017.openhd.lol/lb/eplayerTSN_1_HD/index.m3u8
+
 #EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV1 (720p)
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8
@@ -153,3 +166,6 @@ http://175.107.244.52:4457/play/a06z
 http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",VTV6 (720p)
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Asahi TV (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+
