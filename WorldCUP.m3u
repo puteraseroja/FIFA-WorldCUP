@@ -15,19 +15,6 @@ https://sabbirhasan.pythonanywhere.com/worldcup/240p-paid
 #EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (144p)
 https://sabbirhasan.pythonanywhere.com/worldcup/144p-paid
 
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (Auto)
-https://sabbirhasan.pythonanywhere.com/worldcup/auto-server2-paid
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (720p)
-https://sabbirhasan.pythonanywhere.com/worldcup/720p-server2-paid
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (480p)
-https://sabbirhasan.pythonanywhere.com/worldcup/480p-server2-paid
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (360p)
-https://sabbirhasan.pythonanywhere.com/worldcup/360p-server2-paid
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (240p)
-https://sabbirhasan.pythonanywhere.com/worldcup/240p-server2-paid
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (144p)
-https://sabbirhasan.pythonanywhere.com/worldcup/144p-server2-paid
-
 #EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (Auto)
 https://sabbirhasan.pythonanywhere.com/worldcup/auto
 #EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (720p)
@@ -40,6 +27,19 @@ https://sabbirhasan.pythonanywhere.com/worldcup/360p
 https://sabbirhasan.pythonanywhere.com/worldcup/240p
 #EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (144p)
 https://sabbirhasan.pythonanywhere.com/worldcup/144p
+
+#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (Auto)
+https://sabbirhasan.pythonanywhere.com/worldcup/auto-server2-paid
+#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (720p)
+https://sabbirhasan.pythonanywhere.com/worldcup/720p-server2-paid
+#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (480p)
+https://sabbirhasan.pythonanywhere.com/worldcup/480p-server2-paid
+#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (360p)
+https://sabbirhasan.pythonanywhere.com/worldcup/360p-server2-paid
+#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (240p)
+https://sabbirhasan.pythonanywhere.com/worldcup/240p-server2-paid
+#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (144p)
+https://sabbirhasan.pythonanywhere.com/worldcup/144p-server2-paid
 
 #EXTINF:-1 group-title="Toffee FREE 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE 2 (Auto)
 https://sabbirhasan.pythonanywhere.com/worldcup/auto-server2
