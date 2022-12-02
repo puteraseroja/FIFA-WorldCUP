@@ -17,9 +17,8 @@
 - [OTT Navigator](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator&hl=en&gl=US) - Free best IPTV player where you can add multiple playlist.
 
 # 📘 Note:
-🚨 M3U Is Tested In VLC (Windows) <br>
-🚨 Browse Category Wise For Better Experience <br>
-🚨 Toffee Links Only Works In Match-Time <br>
+🚨 For Android Use: OTT Navigator <br>
+🚨 For Windows Use: VLC Media Player <br>
 🚨 Consider Giving Credit Before Sharing <br>
 🚨 My Exam Is Very Near So Please Pray For Me 💕
 
