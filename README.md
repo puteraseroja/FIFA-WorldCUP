@@ -17,8 +17,8 @@
 - [OTT Navigator](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator&hl=en&gl=US) - Free best IPTV player where you can add multiple playlist.
 
 # 📘 Note:
-🚨 For Android Use: OTT Navigator <br>
-🚨 For Windows Use: VLC Media Player <br>
+🚨 For Android Use: <strong>OTT Navigator</strong> <br>
+🚨 For Windows Use: <strong>VLC Media Player</strong> <br>
 🚨 Consider Giving Credit Before Sharing <br>
 🚨 My Exam Is Very Near So Please Pray For Me 💕
 
