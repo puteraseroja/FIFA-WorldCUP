@@ -40,6 +40,19 @@ http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (720p)
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 
+#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV1 (720p)
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8
+#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV1 (360p)
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level2/chunks.m3u8
+#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV2 (720p)
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ptstream.livechymde.xyz/hls/pt_sporttv2/livehd/pt_sporttv2_level1/chunks.m3u8
+#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV2 (360p)
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ptstream.livechymde.xyz/hls/pt_sporttv2/livehd/pt_sporttv2_level1/chunks.m3u8
+
 #EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p)
 http://eu.majes-line.co/play/live.php?mac=00:1A:79:B6:B8:BF&stream=811763&extension=ts
 #EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",ITV1 (1080p)
