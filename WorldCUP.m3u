@@ -86,6 +86,8 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/117176.ts
 
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Super Sports (2160p)
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p)
+http://eu.majes-line.co/play/live.php?mac=00:1A:79:B6:B8:BF&stream=811763&extension=ts
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER1)
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER2)
