@@ -40,13 +40,6 @@ http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (720p)
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 
-#EXTINF:-1 group-title="Amazon-AWS {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Amazon-AWS (1080p)
-https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
-#EXTINF:-1 group-title="Amazon-AWS {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Amazon-AWS (720p)
-https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8
-#EXTINF:-1 group-title="Amazon-AWS {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Amazon-AWS (480p)
-https://murthyneeraj231.s3.amazonaws.com/worldcup_480.m3u8
-
 #EXTINF:-1 group-title="Xtream {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Xtream {SERVER-1}
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049176
 #EXTINF:-1 group-title="Xtream {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Xtream {SERVER-2}
