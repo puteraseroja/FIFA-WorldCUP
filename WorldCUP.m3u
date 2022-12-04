@@ -54,12 +54,12 @@ https://sabbirhasan.pythonanywhere.com/worldcup/240p-server2
 #EXTINF:-1 group-title="Toffee FREE 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE 2 (144p)
 https://sabbirhasan.pythonanywhere.com/worldcup/144p-server2
 
-#EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",E-Fiber (1080p)
-https://sabbirhasan.pythonanywhere.com/worldcup/efiber-sports18
-#EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",E-Fiber (480p-TSports)
-https://sabbirhasan.pythonanywhere.com/worldcup/efiber-tsports
-#EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",E-Fiber (480p-GaziTV)
-https://sabbirhasan.pythonanywhere.com/worldcup/efiber-gazitv
+##EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",E-Fiber (1080p)
+#https://sabbirhasan.pythonanywhere.com/worldcup/efiber-sports18
+##EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",E-Fiber (480p-TSports)
+#https://sabbirhasan.pythonanywhere.com/worldcup/efiber-tsports
+##EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",E-Fiber (480p-GaziTV)
+#https://sabbirhasan.pythonanywhere.com/worldcup/efiber-gazitv
 
 #EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (720p)
 http://103.102.27.173/live/tvfeed1001/index.m3u8
@@ -171,6 +171,8 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/117176.ts
 
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Super Sports (2160p)
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",PTC1 (1080p)
+http://89.216.39.24/cloud/stream/4ef949d15a0a444280c4d598a0af4286/39/index.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER1)
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER2)
