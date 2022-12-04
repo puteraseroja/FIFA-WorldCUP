@@ -85,6 +85,18 @@ https://webudi.openhd.lol/cdn/8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="OpenHD {GLOBAL} 🔥VIP🔥" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TS1 (720p)
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://ad2017.openhd.lol/lb/eplayerTSN_1_HD/index.m3u8
+#EXTINF:-1 group-title="OpenHD {GLOBAL} 🔥VIP🔥" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 1 (720p)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.openhd.lol/lb/premium296/index.m3u8
+#EXTINF:-1 group-title="OpenHD {GLOBAL} 🔥VIP🔥" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 2 (720p)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.openhd.lol/lb/premium297/index.m3u8
+#EXTINF:-1 group-title="OpenHD {GLOBAL} 🔥VIP🔥" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 3 (720p)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.openhd.lol/lb/premium298/index.m3u8
+#EXTINF:-1 group-title="OpenHD {GLOBAL} 🔥VIP🔥" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 4 (720p)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webdi.openhd.lol/ddyx2/premium299/index.m3u8
 
 #EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV1 (720p)
 #EXTVLCOPT:http-referrer=https://aesport.tv/
