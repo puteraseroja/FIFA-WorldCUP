@@ -133,7 +133,7 @@ http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809357&ext
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809359&extension=ts
 
 #EXTINF:-1 group-title="Xtream {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Xtream {SERVER-1}
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049176
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14415.m3u8
 #EXTINF:-1 group-title="Xtream {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Xtream {SERVER-2}
 http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/48686
 #EXTINF:-1 group-title="Xtream {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Xtream {SERVER-3}
@@ -203,5 +203,9 @@ http://175.107.244.52:4457/play/a06z
 http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",VTV6 (720p)
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Turmenistan Sport (480p)
+http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Asahi TV (480p)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TNT Sports (480p)
+http://190.131.228.59:8000/play/a059/index.m3u8
