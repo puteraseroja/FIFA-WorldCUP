@@ -1,6 +1,6 @@
 #EXTM3U
 # Collected And Uploaded By (https://github.com/sabbiriptv)
-# Give Credit Before Sharing 😕
+# Give Credit Before Sharing Otherwise 😒
 
 #EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (Auto)
 https://sabbirhasan.pythonanywhere.com/worldcup/auto-paid
@@ -66,7 +66,6 @@ http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (720p)
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 
-# Give Credit Before Sharing Otherwise 😒
 #EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Astro 1 (1080p-60fps)
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webdi.openhd.lol/ddyx2/premium294/index.m3u8
