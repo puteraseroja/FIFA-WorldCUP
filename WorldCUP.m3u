@@ -54,13 +54,6 @@ https://sabbirhasan.pythonanywhere.com/worldcup/240p-server2
 #EXTINF:-1 group-title="Toffee FREE 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE 2 (144p)
 https://sabbirhasan.pythonanywhere.com/worldcup/144p-server2
 
-##EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",E-Fiber (1080p)
-#https://sabbirhasan.pythonanywhere.com/worldcup/efiber-sports18
-##EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",E-Fiber (480p-TSports)
-#https://sabbirhasan.pythonanywhere.com/worldcup/efiber-tsports
-##EXTINF:-1 group-title="E-Fiber {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",E-Fiber (480p-GaziTV)
-#https://sabbirhasan.pythonanywhere.com/worldcup/efiber-gazitv
-
 #EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (720p)
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (720p)
@@ -198,8 +191,6 @@ http://103.143.235.50:8080/102/102.m3u8
 #EXTINF:-1 group-title="Random {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (540p)
 http://208.86.19.13:81/9055.stream/index.m3u8
 
-#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Super Sports (2160p)
-http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER1)
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER2)
