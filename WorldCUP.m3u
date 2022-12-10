@@ -194,6 +194,8 @@ http://103.143.235.50:8080/102/102.m3u8
 #EXTINF:-1 group-title="Random {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (540p)
 http://208.86.19.13:81/9055.stream/index.m3u8
 
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 1 (1080p-60fps)
+http://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/master.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER1)
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER2)
