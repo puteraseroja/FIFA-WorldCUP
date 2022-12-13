@@ -54,6 +54,20 @@ https://sabbirhasan.pythonanywhere.com/worldcup/240p-server2
 #EXTINF:-1 group-title="Toffee FREE 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE 2 (144p)
 https://sabbirhasan.pythonanywhere.com/worldcup/144p-server2
 
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {TVStream}
+#EXTVLCOPT:http-referrer=https://tvstream.fun
+https://tvstream.fun/jtv/auto_quality.php?c=Sports18_1_HD
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {ButtFlix}
+http://jio.buttflix.best/autoq.php?c=Sports18_1_HD
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {TechMaxLive}
+http://techmaxlive.ml/autoq.php?c=Sports18_1_HD
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {ExtraTV}
+https://extratv.filmyhub.ga/autoq.php?c=Sports18_1_HD
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {GDL}
+https://tv.googledrivelinks.com:443/autoq.php?c=Sports18_1_HD
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {StreamKING}
+https://1984-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/autoq.php?c=Sports18_1_HD
+
 #EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (720p)
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (720p)
@@ -194,6 +208,10 @@ http://103.143.235.50:8080/102/102.m3u8
 #EXTINF:-1 group-title="Random {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (540p)
 http://208.86.19.13:81/9055.stream/index.m3u8
 
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 1 (1080p-60fps)
+http://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/master.m3u8
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",CCTV5 (1080p)
+https://node3.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER1)
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Match TV (1080p-SERVER2)
