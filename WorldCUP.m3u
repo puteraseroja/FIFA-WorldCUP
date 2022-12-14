@@ -66,12 +66,7 @@ https://extratv.filmyhub.ga/autoq.php?c=Sports18_1_HD
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {GDL}
 https://tv.googledrivelinks.com:443/autoq.php?c=Sports18_1_HD
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {StreamKING}
-https://1984-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/autoq.php?c=Sports18_1_HD
-
-#EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (720p)
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (720p)
-http://103.102.27.173/live/tvfeed1002/index.m3u8
+https://f62e-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/autoq.php?c=Sports18_1_HD
 
 #EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Astro 1 (1080p-60fps) {Temporary}
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
