@@ -64,11 +64,11 @@ http://tv.maguraplex.net:8000/live/tyc/index.m3u8
 http://tv.maguraplex.net:8000/live/toffee/index.m3u8
 
 #EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (1080p)
-http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
+http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasban
 #EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (1080p)
-http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
+http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasban
 #EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee {CTGTV}
-http://ctgtv.online:8234/tf_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
+http://ctgtv.online:8234/tf_tv/tracks-v1a1/mono.m3u8?token=promasban
 
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {TVStream}
 #EXTVLCOPT:http-referrer=https://tvstream.fun
