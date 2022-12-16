@@ -237,10 +237,9 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",MBC (1080p)
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
-#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",ITV UK (720p-60fps)
-https://playing.goforfreedomwme.net/live/itvuk_720p/index.m3u8
-#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 1 (720p-60fps)
-https://turnthe.gameon.tel/live/beinsportsmax1ar_720p/index.m3u8
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",MazaPLAY (720p)
+#EXTVLCOPT:http-referrer=https://www.criclive.pics/
+https://livee2.criclive.ml/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Soco HD (720p)
 https://sports01.livnvess.com/live/stream-115493.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TyC Sports (720p)
