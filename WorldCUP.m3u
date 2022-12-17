@@ -54,6 +54,22 @@ https://sabbirhasan.pythonanywhere.com/worldcup/240p-server2
 #EXTINF:-1 group-title="Toffee FREE 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE 2 (144p)
 https://sabbirhasan.pythonanywhere.com/worldcup/144p-server2
 
+#EXTINF:-1 group-title="MaguraPLEX {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p)
+http://tv.maguraplex.net:8000/live/sports18/index.m3u8
+#EXTINF:-1 group-title="MaguraPLEX {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Gazi TV (1080p)
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
+#EXTINF:-1 group-title="MaguraPLEX {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TyC Sports (720p)
+http://tv.maguraplex.net:8000/live/tyc/index.m3u8
+#EXTINF:-1 group-title="MaguraPLEX {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee {MaguraPLEX}
+http://tv.maguraplex.net:8000/live/toffee/index.m3u8
+
+#EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (1080p)
+http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasban
+#EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (1080p)
+http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasban
+#EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee {CTGTV}
+http://ctgtv.online:8234/tf_tv/tracks-v1a1/mono.m3u8?token=promasban
+
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {TVStream}
 #EXTVLCOPT:http-referrer=https://tvstream.fun
 https://tvstream.fun/jtv/auto_quality.php?c=Sports18_1_HD
@@ -66,12 +82,7 @@ https://extratv.filmyhub.ga/autoq.php?c=Sports18_1_HD
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {GDL}
 https://tv.googledrivelinks.com:443/autoq.php?c=Sports18_1_HD
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {StreamKING}
-https://1984-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/autoq.php?c=Sports18_1_HD
-
-#EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (720p)
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 group-title="Asian-City {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (720p)
-http://103.102.27.173/live/tvfeed1002/index.m3u8
+https://f62e-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/autoq.php?c=Sports18_1_HD
 
 #EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Astro 1 (1080p-60fps) {Temporary}
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
@@ -201,12 +212,10 @@ http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/1182
 #EXTINF:-1 group-title="Xtream {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Xtream {SERVER-18}
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/117176.ts
 
-#EXTINF:-1 group-title="Random {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",More Links Will Be Added In Future 😊
-https://files.sabbirhasan.workers.dev/0:/Powered%20By%20SabbirIPTV.mp4
-#EXTINF:-1 group-title="Random {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (480p)
-http://103.143.235.50:8080/102/102.m3u8
-#EXTINF:-1 group-title="Random {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (540p)
-http://208.86.19.13:81/9055.stream/index.m3u8
+#EXTINF:-1 group-title="Random {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (1080p)
+http://103.143.235.50/Gazi-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Random {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (720p)
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 1 (1080p-60fps)
 http://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/master.m3u8
@@ -228,10 +237,9 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",MBC (1080p)
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
-#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",ITV UK (720p-60fps)
-https://playing.goforfreedomwme.net/live/itvuk_720p/index.m3u8
-#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 1 (720p-60fps)
-https://turnthe.gameon.tel/live/beinsportsmax1ar_720p/index.m3u8
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",MazaPLAY (720p)
+#EXTVLCOPT:http-referrer=https://www.criclive.pics/
+https://livee2.criclive.ml/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Soco HD (720p)
 https://sports01.livnvess.com/live/stream-115493.m3u8
 #EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TyC Sports (720p)
