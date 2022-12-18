@@ -9,7 +9,7 @@ http://live.geoiptv.org:8880/live/8801770962313190/whatsapp_bot=923099402211/681
 
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {TVStream}
 #EXTVLCOPT:http-referrer=https://tvstream.fun
-https://tvstream.fun/jtv/jio_wc_cinema.php?c=Sports18_1_HD&q=1200&e=.m3u8
+https://tvstream.fun/jtv/jio_worldcup_finale.php?c=Sports18_1_HDq=1200&e=.m3u8
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {ButtFlix}
 http://jio.buttflix.best/live.php?c=Sports18_1_HD&q=1200&e=.m3u8
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {GDL}
