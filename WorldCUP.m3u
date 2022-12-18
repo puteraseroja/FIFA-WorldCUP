@@ -2,23 +2,8 @@
 # Collected And Uploaded By (https://github.com/sabbiriptv)
 # Give Credit Before Sharing Otherwise 😒
 
-#EXTINF:-1 group-title="GEO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee (720p)
+#EXTINF:-1 group-title="Toffee {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee (720p)
 https://toffee-sabbiriptv.vercel.app/
-
-#EXTINF:-1 group-title="GEO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p)
-http://live.geoiptv.org:8880/live/8801770962313190/whatsapp_bot=923099402211/681519.ts
-#EXTINF:-1 group-title="GEO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Ary Sports (720p)
-http://live.geoiptv.org:8880/live/8801770962313190/whatsapp_bot=923099402211/681476.ts
-#EXTINF:-1 group-title="GEO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Super Sports (720p)
-http://live.geoiptv.org:8880/live/8801770962313190/whatsapp_bot=923099402211/681160.ts
-
-#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {TVStream}
-#EXTVLCOPT:http-referrer=https://tvstream.fun
-https://tvstream.fun/jtv/jio_worldcup_finale.php?c=Sports18_1_HDq=1200&e=.m3u8
-#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {ButtFlix}
-http://jio.buttflix.best/live.php?c=Sports18_1_HD&q=1200&e=.m3u8
-#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {GDL}
-https://tv.googledrivelinks.com/live.php?c=Sports18_1_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV1 (720p)
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -32,6 +17,14 @@ https://ptstream.livechymde.xyz/hls/pt_sporttv2/livehd/pt_sporttv2_level1/chunks
 #EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV2 (360p)
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 https://ptstream.livechymde.xyz/hls/pt_sporttv2/livehd/pt_sporttv2_level1/chunks.m3u8
+
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {TVStream}
+#EXTVLCOPT:http-referrer=https://tvstream.fun
+https://tvstream.fun/jtv/jio_worldcup_finale.php?c=Sports18_1_HDq=1200&e=.m3u8
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {ButtFlix}
+http://jio.buttflix.best/live.php?c=Sports18_1_HD&q=1200&e=.m3u8
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {GDL}
+https://tv.googledrivelinks.com/live.php?c=Sports18_1_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 group-title="ZinaMedia {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein MAX 1 (1080p)
 http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX1-H265/video.m3u8
