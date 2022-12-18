@@ -4,13 +4,11 @@
 
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {TVStream}
 #EXTVLCOPT:http-referrer=https://tvstream.fun
-https://tvstream.fun/jtv/jio_wc_cinema.php?c=Sony_Max_HD&q=1200&e=.m3u8
+https://tvstream.fun/jtv/jio_wc_cinema.php?c=Sports18_1_HD&q=1200&e=.m3u8
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {ButtFlix}
-http://jio.buttflix.best/live.php?c=Zee_TV_HD&q=1200&e=.m3u8
+http://jio.buttflix.best/live.php?c=Sports18_1_HD&q=1200&e=.m3u8
 #EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {GDL}
-https://tv.googledrivelinks.com:443/autoq.php?c=Sports18_1_HD
-#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {StreamKING}
-https://f62e-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/autoq.php?c=Sports18_1_HD
+https://tv.googledrivelinks.com/live.php?c=Sports18_1_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV1 (720p)
 #EXTVLCOPT:http-referrer=https://aesport.tv/
