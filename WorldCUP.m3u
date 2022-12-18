@@ -2,6 +2,19 @@
 # Collected And Uploaded By (https://github.com/sabbiriptv)
 # Give Credit Before Sharing Otherwise 😒
 
+#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV1 (720p)
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8
+#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV1 (360p)
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level2/chunks.m3u8
+#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV2 (720p)
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ptstream.livechymde.xyz/hls/pt_sporttv2/livehd/pt_sporttv2_level1/chunks.m3u8
+#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV2 (360p)
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://ptstream.livechymde.xyz/hls/pt_sporttv2/livehd/pt_sporttv2_level1/chunks.m3u8
+
 #EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (Auto)
 https://sabbirhasan.pythonanywhere.com/worldcup/auto
 #EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (720p)
@@ -123,19 +136,6 @@ https://webudi.openhd.lol/lb/premium298/index.m3u8
 #EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 4 (480p)
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webdi.openhd.lol/ddyx2/premium299/index.m3u8
-
-#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV1 (720p)
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8
-#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV1 (360p)
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level2/chunks.m3u8
-#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV2 (720p)
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-https://ptstream.livechymde.xyz/hls/pt_sporttv2/livehd/pt_sporttv2_level1/chunks.m3u8
-#EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV2 (360p)
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-https://ptstream.livechymde.xyz/hls/pt_sporttv2/livehd/pt_sporttv2_level1/chunks.m3u8
 
 #EXTINF:-1 group-title="AkamaiHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",MUTV (540p)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
