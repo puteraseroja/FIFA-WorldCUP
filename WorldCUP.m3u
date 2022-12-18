@@ -2,6 +2,9 @@
 # Collected And Uploaded By (https://github.com/sabbiriptv)
 # Give Credit Before Sharing Otherwise 😒
 
+#EXTINF:-1 group-title="GEO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee (720p)
+https://toffee-sabbiriptv.vercel.app/
+
 #EXTINF:-1 group-title="GEO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p)
 http://live.geoiptv.org:8880/live/8801770962313190/whatsapp_bot=923099402211/681519.ts
 #EXTINF:-1 group-title="GEO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Ary Sports (720p)
