@@ -2,6 +2,16 @@
 # Collected And Uploaded By (https://github.com/sabbiriptv)
 # Give Credit Before Sharing Otherwise 😒
 
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {TVStream}
+#EXTVLCOPT:http-referrer=https://tvstream.fun
+https://tvstream.fun/jtv/jio_wc_cinema.php?c=Sony_Max_HD&q=1200&e=.m3u8
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {ButtFlix}
+http://jio.buttflix.best/live.php?c=Zee_TV_HD&q=1200&e=.m3u8
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {GDL}
+https://tv.googledrivelinks.com:443/autoq.php?c=Sports18_1_HD
+#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {StreamKING}
+https://f62e-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/autoq.php?c=Sports18_1_HD
+
 #EXTINF:-1 group-title="AESports {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports TV1 (720p)
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8
@@ -26,87 +36,17 @@ http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX4-H265/video.m3u8
 #EXTINF:-1 group-title="ZinaMedia {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein MAX 5 (1080p)
 http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX5-H265/video.m3u8
 
-#EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (Auto)
-https://sabbirhasan.pythonanywhere.com/worldcup/auto
-#EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (720p)
-https://sabbirhasan.pythonanywhere.com/worldcup/720p
-#EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (480p)
-https://sabbirhasan.pythonanywhere.com/worldcup/480p
-#EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (360p)
-https://sabbirhasan.pythonanywhere.com/worldcup/360p
-#EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (240p)
-https://sabbirhasan.pythonanywhere.com/worldcup/240p
-#EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (144p)
-https://sabbirhasan.pythonanywhere.com/worldcup/144p
-
-#EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (Auto)
-https://sabbirhasan.pythonanywhere.com/worldcup/auto-paid
-#EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (720p)
-https://sabbirhasan.pythonanywhere.com/worldcup/720p-paid
-#EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (480p)
-https://sabbirhasan.pythonanywhere.com/worldcup/480p-paid
-#EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (360p)
-https://sabbirhasan.pythonanywhere.com/worldcup/360p-paid
-#EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (240p)
-https://sabbirhasan.pythonanywhere.com/worldcup/240p-paid
-#EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (144p)
-https://sabbirhasan.pythonanywhere.com/worldcup/144p-paid
-
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (Auto)
-https://sabbirhasan.pythonanywhere.com/worldcup/auto-server2-paid
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (720p)
-https://sabbirhasan.pythonanywhere.com/worldcup/720p-server2-paid
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (480p)
-https://sabbirhasan.pythonanywhere.com/worldcup/480p-server2-paid
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (360p)
-https://sabbirhasan.pythonanywhere.com/worldcup/360p-server2-paid
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (240p)
-https://sabbirhasan.pythonanywhere.com/worldcup/240p-server2-paid
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (144p)
-https://sabbirhasan.pythonanywhere.com/worldcup/144p-server2-paid
-
-#EXTINF:-1 group-title="Toffee FREE 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE 2 (Auto)
-https://sabbirhasan.pythonanywhere.com/worldcup/auto-server2
-#EXTINF:-1 group-title="Toffee FREE 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE 2 (720p)
-https://sabbirhasan.pythonanywhere.com/worldcup/720p-server2
-#EXTINF:-1 group-title="Toffee FREE 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE 2 (480p)
-https://sabbirhasan.pythonanywhere.com/worldcup/480p-server2
-#EXTINF:-1 group-title="Toffee FREE 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE 2 (360p)
-https://sabbirhasan.pythonanywhere.com/worldcup/360p-server2
-#EXTINF:-1 group-title="Toffee FREE 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE 2 (240p)
-https://sabbirhasan.pythonanywhere.com/worldcup/240p-server2
-#EXTINF:-1 group-title="Toffee FREE 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE 2 (144p)
-https://sabbirhasan.pythonanywhere.com/worldcup/144p-server2
-
 #EXTINF:-1 group-title="MaguraPLEX {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p)
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
 #EXTINF:-1 group-title="MaguraPLEX {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Gazi TV (1080p)
 http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-1 group-title="MaguraPLEX {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TyC Sports (720p)
 http://tv.maguraplex.net:8000/live/tyc/index.m3u8
-#EXTINF:-1 group-title="MaguraPLEX {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee {MaguraPLEX}
-http://tv.maguraplex.net:8000/live/toffee/index.m3u8
 
 #EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (1080p)
-http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasban
+http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasbd.comcom
 #EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (1080p)
-http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasban
-#EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee {CTGTV}
-http://ctgtv.online:8234/tf_tv/tracks-v1a1/mono.m3u8?token=promasban
-
-#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {TVStream}
-#EXTVLCOPT:http-referrer=https://tvstream.fun
-https://tvstream.fun/jtv/auto_quality.php?c=Sports18_1_HD
-#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {ButtFlix}
-http://jio.buttflix.best/autoq.php?c=Sports18_1_HD
-#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {TechMaxLive}
-http://techmaxlive.ml/autoq.php?c=Sports18_1_HD
-#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {ExtraTV}
-https://extratv.filmyhub.ga/autoq.php?c=Sports18_1_HD
-#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {GDL}
-https://tv.googledrivelinks.com:443/autoq.php?c=Sports18_1_HD
-#EXTINF:-1 group-title="JIO {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p) {StreamKING}
-https://f62e-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/autoq.php?c=Sports18_1_HD
+http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.comcom
 
 #EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Astro 1 (1080p-60fps) {Temporary}
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
